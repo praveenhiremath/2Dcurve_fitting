@@ -1,0 +1,13 @@
+Verified Result for:
+n=6
+X Values:0.056865,1.065464,2.084564,3.035454,4.032354,5.0345454
+Y Values:2.1,7.7,13.6,27.2,40.9,61.1
+Quadratic Equation is 
+y=f(x) = 2.306366 + 2.092913 x+ 1.895428 x^2.
+
+
+Instructions:
+1)I/P Value Entry Guidelines:X and Y values must be in same units.{Range Set is -10000 to 10000(X),0 to 10000(Y).
+2)The user must enter the values for a0,a1,a2 under the text "ENTER" from the values a0,a1,a2 obtained under the title 
+   "The coefficients of X for the found Quadratic Polynomial".
+3)Clicking on "PLOT" gives the graph.
